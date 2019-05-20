@@ -1,11 +1,7 @@
-#include <hello_world.hpp>
-#include <string>
+#include <iostream>
 using namespace std;
 int main()
 {
-string name;
-cout << "enter your name: " << endl;
-cin >> name;
-cout << endl;
 cout << "hello world" << endl;
+return 0;
 }
